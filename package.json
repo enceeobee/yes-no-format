@@ -1,0 +1,22 @@
+{
+  "name": "yes-no-format",
+  "version": "0.0.1",
+  "description": "A way to transform a value to 'yes' or 'no'",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ncob/yes-no-format.git"
+  },
+  "author": "Nate Bisbee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ncob/yes-no-format/issues"
+  },
+  "homepage": "https://github.com/ncob/yes-no-format#readme"
+}
